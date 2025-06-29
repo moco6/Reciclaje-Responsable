@@ -19,6 +19,7 @@ Este proyecto simula un sistema de reciclaje con puntaje:
 - Especifica el tipo de basura para reciclar (papel, plástico o vidrio).
 - Indica la cantidad (en unidades).
 - Presiona "Registrar Reciclaje" para sumar puntos.
+- Los archivos usuarios.txt y reciclaje.txt se crean automáticamente al registrar la primera actividad.
 
 También puedes:
 
