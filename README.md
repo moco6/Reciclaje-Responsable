@@ -1,4 +1,4 @@
-# Reciclaje Responsable
+# Reciclaje Responsable - Grupo 10
 
 Una aplicación/juego para fomentar el reciclaje. Permite registrar usuarios, sumar puntos por reciclaje, canjear recompensas y ver rankings, usando una interfaz gráfica en Python (Tkinter).
 
@@ -54,7 +54,7 @@ También puedes:
 python app_basurero.py
 ```
 
-## Integrantes del grupo
+## Integrantes del grupo 10
 - Ever Alejandro Montes Quintanilla
 - Juan Pablo Quinatnilla Acuña
 - Juan Pablo Ramírez Cierra
